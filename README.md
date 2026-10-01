@@ -1,0 +1,1 @@
+# smamovd
